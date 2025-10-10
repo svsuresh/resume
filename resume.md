@@ -52,7 +52,7 @@ iPathwayGuide, iVariantGuide, iScanGuide, Clinical Genomicist Workstation, GeneS
 2. **Bioinformatics Scientist** — AdvaitaBio Corporation, 2022–2025• AnnArbor, MI
 3. **Chief Bioinformatics Officer** —  NavipointHealth India Private Limited, 2021–2022• Hyderabad, TG 
 4. **Chief Bioinformatics Officer**  — Entelechy Global,2019–2021• Bangalore, KA 
-5. **Bioinformatics manager**  — Bioserve (Reprocell group comapny), 2018–2019• Hyderabad, TG 
+5. **Bioinformatics manager**  — Bioserve (Reprocell group company), 2018–2019• Hyderabad, TG 
 6. **Team Manager** —  Cognizant Technology Solutions India Private Limited, 2016-2016• Mumbai, MH 
 7. **Scientist II**  — Genome Lifesciences Private Limited, 2013-2014• Chennai, TN 
 8. **Bioinformatics Analyst II** — SemanticBits India Private Limited, 2011-2013• Hyderabad, TG 
@@ -107,5 +107,5 @@ iPathwayGuide, iVariantGuide, iScanGuide, Clinical Genomicist Workstation, GeneS
 
 <p class="style2">Other Details</p>
 
-**Nationality**: Indian
+**Nationality**: Indian </br>
 **Languages**:   English, Telugu, Hindi
