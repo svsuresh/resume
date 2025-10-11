@@ -50,7 +50,7 @@ iPathwayGuide, iVariantGuide, iScanGuide, Clinical Genomicist Workstation, GeneS
 
 1. **Bioinformatics Scientist** — Suvomics Lifesciences, 2025 - current• Hyderabad, India 
 2. **Bioinformatics Scientist** — AdvaitaBio Corporation, 2022–2025• AnnArbor, MI
-3. **Chief Bioinformatics Officer** —  NavipointHealth India Private Limited, 2021–2022• Hyderabad, TG 
+3. **Chief Bioinformatics Officer** —  NavipointHealth India Private Limited, 2021–2022• Hyderabad, TG  <>
 4. **Chief Bioinformatics Officer**  — Entelechy Global,2019–2021• Bangalore, KA 
 5. **Bioinformatics manager**  — Bioserve (Reprocell group company), 2018–2019• Hyderabad, TG 
 6. **Team Manager** —  Cognizant Technology Solutions India Private Limited, 2016-2016• Mumbai, MH 
