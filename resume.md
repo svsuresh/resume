@@ -1,8 +1,10 @@
 <h4 align="center">
 Venkata Suresh Kumar, Ph.D
-<span align="center" style="margin-top:0px;"><a href="https://www.github.com/svsuresh"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/technology/git/git.svg" width="20" height="20">
-<a href="https://www.linkedin.com/in/svsk"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" width="20" height="20"></a>
-<a href=mailto:kumars.sv@gmail.com><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/envelope.svg" width="20"> </a>
+<span align="center" style="margin-top:0px;">
+	<a href="https://www.github.com/svsuresh"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/technology/github/github.svg" width="20" height="20"></a>
+	<a href="https://gist.github.com/svsuresh"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/technology/git/git.svg" width="20" height="20"></a>
+	<a href="https://www.linkedin.com/in/svsk"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" width="20" height="20"></a>
+	<a href=mailto:kumars.sv@gmail.com><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/envelope.svg" width="20"> </a>
 </span>
 </h4>
 
