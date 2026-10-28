@@ -1,14 +1,12 @@
 <h4 align="center">
 Venkata Suresh Kumar, Ph.D
-<span align="center" style="margin-top:0px;">
-	<a href="https://www.github.com/svsuresh"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/technology/github/github.svg" width="20" height="20"></a>
-	<a href="https://gist.github.com/svsuresh"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/technology/git/git.svg" width="20" height="20"></a>
-	<a href="https://www.linkedin.com/in/svsk"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" width="20" height="20"></a>
-	<a href=mailto:kumars.sv@gmail.com><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/envelope.svg" width="20"> </a>
+<span align="center" style="margin-top:0px;"><a href="https://www.github.com/svsuresh"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/technology/git/git.svg" width="20" height="20">
+<a href="https://www.linkedin.com/in/svsk"><img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" width="20" height="20"></a>
+<a href=mailto:kumars.sv@gmail.com><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/envelope.svg" width="20"> </a>
 </span>
 </h4>
 
-<h4 align="center" style="margin-top:0px;line-height:0.2; color:steelblue"> Bioinformatics Scientist, Suvomics Lifesciences
+<h4 align="center" style="margin-top:0px;line-height:0.2; color:steelblue"> Bio Informatics Scientist, AdvaitaBio (May, 2026)
 </h4>
 
 <p align="center">
@@ -38,39 +36,37 @@ Venkata Suresh Kumar, Ph.D
 <p class="style2"> Key words </p>
 
 <div class='style1'>
-Genomics, Transcriptomics (Single cell and Bulk RNAseq), Metagenomics, NGS Workflows, Snakemake, Galaxy, Containerization, Software Prototyping, Business Analysis, Bioinformatics Product and Service Delivery, Agile SDLC, Atlassian Tools
+Genomics, Transcriptomics (Single cell, Spatial and Bulk), Metagenomics, NGS Workflows, Snakemake, Galaxy, Docker, Prototyping, Business Analysis, Product and Service Delivery, Agile SDLC, Atlassian Tools, Claude Code, Claude CoWork, Skills, AI Omics Workflows
 </div>
 
 
 <p class="style2"> Products </p>
 <div class='style1'>
-iPathwayGuide, iVariantGuide, iScanGuide, Clinical Genomicist Workstation, GeneSpringGX, DesignStudio, GenomeExplorer.
+iPathwayGuide, iVariantGuide, iSCanGuide, Clinical Genomicist Workstation, GeneSpringGX, DesignStudio, GenomeExplorer.
 </div>
 
 <p class="style2"> Experience </p>
 <div class='style1'>
 
-1. **Bioinformatics Scientist** — Suvomics Lifesciences, 2025 - current• Hyderabad, India 
-2. **Bioinformatics Scientist** — AdvaitaBio Corporation, 2022–2025• AnnArbor, MI
-3. **Chief Bioinformatics Officer** —  NavipointHealth India Private Limited, 2021–2022• Hyderabad, TG  <>
-4. **Chief Bioinformatics Officer**  — Entelechy Global,2019–2021• Bangalore, KA 
-5. **Bioinformatics manager**  — Bioserve (Reprocell group company), 2018–2019• Hyderabad, TG 
-6. **Team Manager** —  Cognizant Technology Solutions India Private Limited, 2016-2016• Mumbai, MH 
-7. **Scientist II**  — Genome Lifesciences Private Limited, 2013-2014• Chennai, TN 
-8. **Bioinformatics Analyst II** — SemanticBits India Private Limited, 2011-2013• Hyderabad, TG 
-9. **Senior Scientist II** — Strand Lifesciences Private Limited, 2008-2010• Bangalore, KA 
-10. **Post Doctoral Fellow** — Lerner Research Research Institute (CCF), 2005-2008• Cleveland, OH 
+1. **Bioinformatics Scientist** — AdvaitaBio Corporation, 2022–2026• AnnArbor, MI</br>
+2. **Chief Bioinformatics Officer** —  NavipointHealth India Private Limited, 2019–2022• Hyderabad, TG </br>
+3. **Bioinformatics manager** — Bioserve (Reprocell group company), 2018–2019• Hyderabad, TG </br>
+4. **Team Manager** —  Cognizant Technology Solutions India Private Limited, 2016-2016• Mumbai, MH </br> 
+5. **Scientist II**  — Genome Lifesciences Private Limited, 2013-2014• Chennai, TN 
+6. **Bioinformatics Analyst II** — SemanticBits India Private Limited, 2011-2013• Hyderabad, TG </br>
+7. **Senior Scientist II** — Strand Lifesciences Private Limited, 2008-2010• Bangalore, KA </br>
+8. **Post Doctoral Fellow** — Lerner Research Research Institute (CCF), 2005-2008• Cleveland, OH </br>
 
 </div>
 
 <p class="style2"> Publications</p>
 <div class="style1">
 
-1. Parvez MK, Jagirdar RM, Purty RS, **Venkata SK**, Agrawal V, Kumar J and Tiwari N; COVID-19 pandemic: Understanding the emergence, pathogenesis and containment (Review). World Acad Sci J 2: 18, 2020
-2. Naga Prasad SV, Gupta MK, Duan ZH, **Surampudi VSK**, Liu CG, <i>et al</i>; A unique microRNA profile in end-stage heart failure indicates altera4ons in specific cardiovascular signaling networks, A unique microRNA profile in end-stage heart failure indicates alterations in specific cardiovascular signaling networks. PLOS ONE (2017) 12(3): e0170456
-3. Clinical genomicist workstation, **Surampudi S** <i>et al</i>., AMIA Summits TranslSci Proc. 2013 Mar 18;2013:156-7 (not first author)
-4. Punekar, N. S., **Suresh Kumar S.V**, Jayashri, T.N., and R. Anuradha., Isolation of genomic DNA from acetone-dried Aspergillus mycelia, Fungal Genet. Newsl.2003, 50:15-16 
-5. **S V Suresh Kumar** <i>et al</i>; Combined sequence and structure analysis of the fungal laccase family, Biotechnology and Bioengineering, 83(4), 386 – 394 (2003) 
+1. Parvez MK, Jagirdar RM, Purty RS, **Venkata SK**, Agrawal V, Kumar J and Tiwari N; COVID-19 pandemic: Understanding the emergence, pathogenesis and containment (Review). World Acad Sci J 2: 18, 2020 </br>
+2. Naga Prasad SV, Gupta MK, Duan ZH, **Surampudi VSK**, Liu CG, <i>et al</i>; A unique microRNA profile in end-stage heart failure indicates altera4ons in specific cardiovascular signaling networks, A unique microRNA profile in end-stage heart failure indicates alterations in specific cardiovascular signaling networks. PLOS ONE (2017) 12(3): e0170456 </br>
+3. Clinical genomicist workstation, **Surampudi** <i>et al</i>., AMIA Summits TranslSci Proc. 2013 Mar 18;2013:156-7 (not first author) </br>
+4. Punekar, N. S., **Suresh Kumar S.V**, Jayashri, T.N., and R. Anuradha., Isolation of genomic DNA from acetone-dried Aspergillus mycelia, Fungal Genet. Newsl.2003, 50:15-16 </br>
+5. **S V Suresh Kumar** <i>et al</i>; Combined sequence and structure analysis of the fungal laccase family, Biotechnology and Bioengineering, 83(4), 386 – 394 (2003)
 </div>
 
 
@@ -85,6 +81,7 @@ iPathwayGuide, iVariantGuide, iScanGuide, Clinical Genomicist Workstation, GeneS
 
 1. NHLBI's PGA Symposium, "From Genome to Disease II: A Symposium of High Throughput Biology", Natcher Conference Center, National Institutes of Health Bethesda, Maryland, 2005. 
 2. Lerner Research Institute 60th Anniversary Symposium, 2005
+3. 12th Global Microbial Identifier Initiative Meeting Report, Nanyang Technological University, Singapore, 12-14 June 2019
 </div>
 
 <p class="style2"> Research Projects </p>
@@ -99,7 +96,7 @@ iPathwayGuide, iVariantGuide, iScanGuide, Clinical Genomicist Workstation, GeneS
 
 </div>
 <p class="style2">Education</p>
-<div class="style1">
+<div class="style">
 
 1. **Ph D** — IITBombay, Mumbai, MH; 1999-2005
 2. **M Sc** — Calicut University, Calicut, KL; 1996-1998
@@ -109,5 +106,5 @@ iPathwayGuide, iVariantGuide, iScanGuide, Clinical Genomicist Workstation, GeneS
 
 <p class="style2">Other Details</p>
 
-**Nationality**: Indian </br>
-**Languages**:   English, Telugu, Hindi
+1. **Nationality**: Indian
+2. **Languages**:   English, Telugu, Hindi
